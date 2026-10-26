@@ -1,0 +1,4 @@
+*.deb
+.aptly/
+pool/
+*.deb

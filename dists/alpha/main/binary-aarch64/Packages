@@ -1,0 +1,13 @@
+Package: gamerhatmeos-core
+Maintainer: Gamerhatme <gamerhatme@localhost>
+Architecture: all
+Version: 1.0.0
+Depends: python3, htop, curl, tmux
+Filename: pool/main/g/gamerhatmeos-core/gamerhatmeos-core_1.0.0.deb
+Size: 1468
+MD5sum: 060f10f033b4d6bf99d6ea61d736e6fa
+SHA1: 570c5ca80cfa61a1c40eac1dddb0c9c66e8130cf
+SHA256: 5e7aee7fc31318a7048694be941eb12c41856b33ab1d82f6d95e242814994ca0
+SHA512: 5644612e8fed29d7ed12d1809c531bc33783ecd0039c82cd231e6452f6982a7f4f0aa08a46d599ef5b1b7ed63860c889dd26d585c3f9a580e97b3e62d9527144
+Description: Core infrastructure environment files for GamerhatmeOS.
+
